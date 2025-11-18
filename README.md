@@ -6,7 +6,6 @@ TODO:
 
  - [ ] Missing old shared task pages
  - [ ] Any other old pages?
- - [ ] Github Action -> Github Site
  - [ ] Update styles
  - [ ] Clean up static content -- what's actually needed?
  - [ ] Social media feed
