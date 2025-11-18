@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v5
-      # - name: setup-pages
-      #   uses: actions/configure-pages@v5
+      - name: setup-pages
+        uses: actions/configure-pages@v5
       - name: setup-python
         uses: actions/setup-python@v5
         with:
