@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v5
-      - name: setup-pages
-        uses: actions/configure-pages@v5
+      # - name: setup-pages
+      #   uses: actions/configure-pages@v5
       - name: setup-python
         uses: actions/setup-python@v5
         with:
@@ -27,7 +27,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: '_build'
-
       # - name: Deploy to GitHub Pages
       #   id: deployment
       #   uses: actions/deploy-pages@v4
