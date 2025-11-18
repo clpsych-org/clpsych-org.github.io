@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v5
+      - name: setup-pages
+        uses: actions/configure-pages@v5
+      - name: setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: install-dependencies
+        run: pip install -r requirements.txt
+      - name: make
+        run: make
+      - name: upload
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '_build'
+
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v4
