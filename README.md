@@ -18,3 +18,4 @@ Youc an build the site by running `make`. You may need to first install dependen
  - [ ] Clean up static content -- what's actually needed?
  - [ ] Social media feed
  - [ ] Domain Name
+
