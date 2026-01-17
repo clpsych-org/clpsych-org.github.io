@@ -30,42 +30,129 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
 
  **Table 1: ABCD Elements Table with Adaptive and Maladaptive Examples:**
 
-| Dimension |  | Sub-Categories |  |
-| :---- | :---- | :---- | :---- |
-| **ABCDDimension** **Explanation** |  | **Adaptive Examples** | **Maladaptive Examples** |
-| **Affect** | Type of emotion expressed by a person | Calm/Laid back; Emotional pain/Grieving; Content/Happy; Vigor/Energetic; Justifiable anger; Assertive anger; Proud | Anxious/Tense/Fearful; Depressed/Desperate/Hopeless; Mania; Apathetic/Don’t care/Blunted; Angry (Aggressive, Disgust, Contempt); Ashamed/Guilty |
-| **Behavior** | ***Behavior of the self with the Other (BO):*** The person’s main behavior(s) toward the other | Relating behavior; Autonomous behavior, approach behavior | Fight or flight behavior; avoidance, Overcontrolled/Controlling behavior |
-|  | ***Behavior toward the Self(BS):*** The person’s main behavior(s) toward the self | Self-care behavior, self-improvement | Self-harm; Neglect; Avoidance behavior, self-sabotage |
-| **Cognition** | ***Cognition of the Other(CO):*** The person’s main perceptions of the other | Perception of the other as related; Perception of the other as facilitating autonomy needs | Perception of the other as detached or over-attached; Perception of the other as blocking autonomy needs |
-|  | ***Cognition of the Self (CS):*** The person’s main self-perceptions | Self-acceptance; Self-compassion, self-esteem | Self-criticism, lack of self-confidence, lack of self-identity |
-| **Desire** | The person's main desire, need, intention, fear or expectation. | Relatedness needs; Autonomy and adaptive control needs; Competence needs  | Expectation that relatedness needs will not be met; Expectation that autonomy needs will not be met; Expectation that competence needs will not be met |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Dimension</th>
+      <th colspan="2">Sub-Categories</th>
+    </tr>
+    <tr>
+      <th colspan="2"><strong>ABCDDimension</strong> <strong>Explanation</strong></th>
+      <th><strong>Adaptive Examples</strong></th>
+      <th><strong>Maladaptive Examples</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Affect</strong></td>
+      <td>Type of emotion expressed by a person</td>
+      <td>
+        Calm/Laid back; Emotional pain/Grieving; Content/Happy; Vigor/Energetic;
+        Justifiable anger; Assertive anger; Proud
+      </td>
+      <td>
+        Anxious/Tense/Fearful; Depressed/Desperate/Hopeless; Mania;
+        Apathetic/Don’t care/Blunted; Angry (Aggressive, Disgust, Contempt);
+        Ashamed/Guilty
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Behavior</strong></td>
+      <td>
+        <em><strong>Behavior of the self with the Other (BO):</strong></em>
+        The person’s main behavior(s) toward the other
+      </td>
+      <td>
+        Relating behavior; Autonomous behavior, approach behavior
+      </td>
+      <td>
+        Fight or flight behavior; avoidance, Overcontrolled/Controlling behavior
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><strong>Behavior toward the Self(BS):</strong></em>
+        The person’s main behavior(s) toward the self
+      </td>
+      <td>
+        Self-care behavior, self-improvement
+      </td>
+      <td>
+        Self-harm; Neglect; Avoidance behavior, self-sabotage
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Cognition</strong></td>
+      <td>
+        <em><strong>Cognition of the Other(CO):</strong></em>
+        The person’s main perceptions of the other
+      </td>
+      <td>
+        Perception of the other as related;
+        Perception of the other as facilitating autonomy needs
+      </td>
+      <td>
+        Perception of the other as detached or over-attached;
+        Perception of the other as blocking autonomy needs
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><strong>Cognition of the Self (CS):</strong></em>
+        The person’s main self-perceptions
+      </td>
+      <td>
+        Self-acceptance; Self-compassion, self-esteem
+      </td>
+      <td>
+        Self-criticism, lack of self-confidence, lack of self-identity
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Desire</strong></td>
+      <td>
+        The person's main desire, need, intention, fear or expectation.
+      </td>
+      <td>
+        Relatedness needs; Autonomy and adaptive control needs; Competence needs
+      </td>
+      <td>
+        Expectation that relatedness needs will not be met;
+        Expectation that autonomy needs will not be met;
+        Expectation that competence needs will not be met
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Example 1: Annotated Example of ABCD Element Combinations:**  
- **{**  
-  **"post":** "Heavy and uneasy. A significant date for someone close is approaching, yet my mind keeps drifting toward wanting to vanish from everything. I stay because the thought of causing her pain stops me. Inside, there’s a sense of numb distance, like I’m disconnected from myself and others.",  
-  **"evidence": {**  
-    **"adaptive-state": {**  
-      **"C-O": {**  
+```
+{  
+  "post": "Heavy and uneasy. A significant date for someone close is approaching, yet my mind keeps drifting toward wanting to vanish from everything. I stay because the thought of causing her pain stops me. Inside, there’s a sense of numb distance, like I’m disconnected from myself and others.",  
+  "evidence": {  
+    "adaptive-state": {  
+      "C-O": {  
         "Category": "(1) Perception of the other as related",  
         "highlighted\_evidence": "the thought of causing her pain stops me"  
-      **}**  
-    **},**  
-    **"maladaptive-state": {**  
-      **"A": {**  
+      }  
+    },  
+    "maladaptive-state": {  
+      "A": {  
         "Category": "(12) Ashamed, guilty",  
         "highlighted\_evidence": "Heavy and uneasy"  
-      **},**  
-      **"C-S": {**  
+      },  
+      "C-S": {  
         "Category": "(2) Self criticism",  
         "highlighted\_evidence": "there’s a sense of numb distance, like I’m disconnected from myself and others"  
-      **},**  
-      **"D": {**  
+      },  
+      "D": {  
         "Category": "(6) Expectation that competence needs will not be met",  
         "highlighted\_evidence": "my mind keeps drifting toward wanting to vanish from everything"  
-      **}**  
-    **}**  
-  **}**  
-**}**
+      }  
+    }  
+  }  
+}
+```
 
 **Evaluation**  
 Submissions will be evaluated on their ability to:
@@ -114,4 +201,4 @@ Researchers seeking collaborators are encouraged to contact the organizers.
 * Atzil-Slonim, D. (2026). Leveraging theoretical and technological innovations to study the mechanisms that underlie therapeutic change in psychotherapy. In L. Castonguay, D. Atzil-Slonim, M. Barkham, & W. Lutz, (Eds). Practice-Based Evidence in the Psychological Therapies: Towards Clinical, Training, and Public Policy Guidelines. Oxford University Press, UK.  
 * Tsakalidis, A., Chim, J., Bilal, I. M., & Zirikly, A. (2022). Overview of the CLPsych 2022 shared task: Capturing moments of change in longitudinal user posts.
 
-**Information on previous shared tasks is available for [2021](https://clpsych.org/shared-task-2021/), [2022](https://clpsych.org/shared-task-2022/)**,[**2024**](https://clpsych.org/shared-task-2024/) **and [2025](https://clpsych.org/), and papers and presentations from previous workshops are available on the ACL anthology ([2022](https://aclanthology.org/volumes/2022.clpsych-1/), [2024](https://aclanthology.org/volumes/2024.clpsych-1/), [2025](https://aclanthology.org/2025.clpsych-1.16.pdf)).**
+**Information on previous shared tasks is available for [2021](https://clpsych.org/shared-task/2021/), [2022](https://clpsych.org/shared-task/2022/)**,[**2024**](https://clpsych.org/shared-task/2024/) **and [2025](https://clpsych.org/), and papers and presentations from previous workshops are available on the ACL anthology ([2022](https://aclanthology.org/volumes/2022.clpsych-1/), [2024](https://aclanthology.org/volumes/2024.clpsych-1/), [2025](https://aclanthology.org/2025.clpsych-1.16.pdf)).**
