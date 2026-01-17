@@ -138,7 +138,7 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
 
 **Example 1: Annotated Example of ABCD Element Combinations:**
 
-```json
+<pre style="line-height: 1;">
 {  
   "post": "Heavy and uneasy. A significant date for someone close is approaching, yet my mind keeps drifting toward wanting to vanish from everything. I stay because the thought of causing her pain stops me. Inside, there’s a sense of numb distance, like I’m disconnected from myself and others.",  
   "evidence": {  
@@ -164,7 +164,7 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
     }  
   }  
 }
-```
+</pre>
 
 **Evaluation**  
 Submissions will be evaluated on their ability to:
