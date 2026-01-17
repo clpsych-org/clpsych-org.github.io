@@ -28,9 +28,15 @@ A **self-state** reflects a dominant mode of experiencing the self and others at
 
 Modeling these transitions is central to the CLPsych 2026 task. Below is the ABCD Elements Table with Adaptive and Maladaptive Examples.
 
- **Table 1: ABCD Elements Table with Adaptive and Maladaptive Examples:**
+**Table 1: ABCD Elements Table with Adaptive and Maladaptive Examples:**
 
-<table>
+<style>
+    #table1 td {
+        border: 1px solid black;
+    }
+</style>
+
+<table id="table1">
   <thead>
     <tr>
       <th colspan="2">Dimension</th>
@@ -125,29 +131,30 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
   </tbody>
 </table>
 
-**Example 1: Annotated Example of ABCD Element Combinations:**  
-```
+**Example 1: Annotated Example of ABCD Element Combinations:**
+
+```json
 {  
   "post": "Heavy and uneasy. A significant date for someone close is approaching, yet my mind keeps drifting toward wanting to vanish from everything. I stay because the thought of causing her pain stops me. Inside, there’s a sense of numb distance, like I’m disconnected from myself and others.",  
   "evidence": {  
     "adaptive-state": {  
       "C-O": {  
         "Category": "(1) Perception of the other as related",  
-        "highlighted\_evidence": "the thought of causing her pain stops me"  
+        "highlighted_evidence": "the thought of causing her pain stops me"  
       }  
     },  
     "maladaptive-state": {  
       "A": {  
         "Category": "(12) Ashamed, guilty",  
-        "highlighted\_evidence": "Heavy and uneasy"  
+        "highlighted_evidence": "Heavy and uneasy"  
       },  
       "C-S": {  
         "Category": "(2) Self criticism",  
-        "highlighted\_evidence": "there’s a sense of numb distance, like I’m disconnected from myself and others"  
+        "highlighted_evidence": "there’s a sense of numb distance, like I’m disconnected from myself and others"  
       },  
       "D": {  
         "Category": "(6) Expectation that competence needs will not be met",  
-        "highlighted\_evidence": "my mind keeps drifting toward wanting to vanish from everything"  
+        "highlighted_evidence": "my mind keeps drifting toward wanting to vanish from everything"  
       }  
     }  
   }  
