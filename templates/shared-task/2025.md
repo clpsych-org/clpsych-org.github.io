@@ -1,0 +1,81 @@
+---
+title: Shared Task 2025
+---
+
+## CLPsych 2025 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines
+
+### Overview
+
+The focus and idea of CLPsych 2025 goes back to the shared task of CLPsych 2022, which introduced longitudinal modelling of changes in individuals’ mood as reflected by content shared on social media timelines (Tsakalidis et al., 2022).
+
+The CLPsych 2025 shared task combines longitudinal modelling in social media timelines with evidence generation (Chim et al., 2024), promoting the generation of humanly understandable rationales that support recognizing mental states as they dynamically change over time. We provide annotations on dynamic adaptive and mal-adaptive self-states along with annotated evidence that supports the assignment of self-state labels. 
+
+By examining a temporally anchored series of posts, participants will infer psychological processes, well-being, and clinical indicators. The task is structured around the MIND framework (Atzil-Slonim, 2024), a pan-theoretical scheme for capturing self-states as combinations of Affect, Behavior, Cognition, and Desire (ABCD) components, and identifying mental fluctuations over time.
+
+The task will thus support the notion of mental health assessment as one of dynamic states rather than static labels while at the same time seeking to identify potential evidence for state recognition.
+
+### Task Description
+
+Participants will develop systems that emulate a structured human annotation process to:
+
+ * Generate comprehensive summaries of mental health dynamics over entire timelines.
+ * Label sequential posts for self-states, context, and well-being. Provide outputs in two formats: categorical labels and concise textual summaries.
+ * Highlight evidence for key psychological components within posts.
+
+### Annotation Framework
+
+MIND Framework:
+Self-states are conceptualized as combinations of:
+
+ * Affect (A): Emotional tone or mood.
+ * Behavior towards self (BS) and Behavior towards others (BO).
+ * Cognition towards self (CS) and Cognition towards others (CO).
+ * Desire (D): Motivation, needs, wishes and expectations.
+ * Each self-state is characterized by the interplay of these components, allowing the identification of adaptive or maladaptive dynamics.
+
+At any given moment, a particular self-state may dominate a person’s experience, with individuals varying in their dominant self-state. Frequently, individuals find themselves caught up in a rigid self-state where rather than a dialogue among diverse self-states (or internal voices), one dominant self-state tends to dictate the experience. Specific self-states tend to elicit a complementary response from the interacting partner, thus creating a cyclical pattern of self-other responses. Some of these dynamics are adaptive and lead to a positive self-other experience, whereas other dynamics are maladaptive for the individual and for the relationship. Understanding the critical role of self-other dynamics has many implications for understanding the factors that maintain psychopathology (e.g., reverberating negative feedback loops about the self and the other) and for identifying directions for improvement (e.g., shifting maladaptive self-other states into more adaptive ones and expanding the dialogue between self-states).
+
+### Evaluation
+
+Submissions will be assessed on their ability to:
+
+ * Accurately identify and describe self-states and ABCD elements within posts and changes across posts.
+ * Highlight relevant evidence for corresponding categories.
+ * Generate timeline summaries that reflect mental health fluctuations and contextual influences.
+
+### Timeline
+
+ * Registration deadline (Feb 9)
+ * Receiving guidelines on accessing the data (Feb 10)
+ * Receiving instructions on the task (Feb 11) 
+
+### How To Participate
+
+Please register using these two forms:
+
+ * [Team registration form](https://docs.google.com/forms/d/e/1FAIpQLSdgpOAhK361Ytce28uz9GFY3z81PbwR7C-fraJbQjEMSLfWLw/viewform?usp=dialog) (one per team)
+ * [Individual registration form](https://docs.google.com/forms/d/e/1FAIpQLSdjQKMSF1XTW4H-8a_A2NgLDSJovZsTPGp55pFKO0QOulFs3Q/viewform?usp=dialog) (one per team member)
+
+If you want to participate but are looking for team members to form a group, please contact us at [clpsych-2025-shared-task@googlegroups.com](clpsych-2025-shared-task@googlegroups.com).
+
+### Organizers
+
+ * Jenny Chim (Queen Mary University of London)
+ * Talia Tseriotou (Queen Mary University of London)
+ * Dana Atzil-Slonim (Bar-Ilan University)
+ * Ayal Klein (Bar-Ilan University)
+ * Aya Shamir (Bar-Ilan University)
+ * Ayah Zirikly (Johns Hopkins University)
+ * Maria Liakata (Queen Mary University of London & The Alan Turing Institute)
+
+### Contact
+
+[clpsych-2025-shared-task@googlegroups.com](clpsych-2025-shared-task@googlegroups.com)
+
+### References
+
+ * Atzil-Slonim, D. (2024). Self-Other Dynamics: A Transtheoretical Coding Manual.
+ * Chim, J., Tsakalidis, A., & Gkoumas, D. (2024). Overview of the CLPsych 2024 shared task: Leveraging large language models to identify evidence of suicidality risk in online posts.
+ * Tsakalidis, A., Chim, J., Bilal, I. M., & Zirikly, A. (2022). Overview of the CLPsych 2022 shared task: Capturing moments of change in longitudinal user posts.
+
+Information on previous shared tasks is available for [2021](/shared-task/2021), [2022](/shared-task/2022) and [2024](/shared-task/2024).
