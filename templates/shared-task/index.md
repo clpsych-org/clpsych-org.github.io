@@ -33,6 +33,8 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
 <style>
     #table1 td, #table1 th {
         border: 1px solid black !important;
+        vertical-align: top;
+        padding: 2px;
     }
 </style>
 
