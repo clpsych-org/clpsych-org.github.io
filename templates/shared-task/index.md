@@ -31,8 +31,8 @@ Modeling these transitions is central to the CLPsych 2026 task. Below is the ABC
 **Table 1: ABCD Elements Table with Adaptive and Maladaptive Examples:**
 
 <style>
-    #table1 td {
-        border: 1px solid black;
+    #table1 td, #table1 th {
+        border: 1px solid black !important;
     }
 </style>
 
