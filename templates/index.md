@@ -6,7 +6,7 @@ Together, we hope to be able to advance the common goal of using human language 
 
 Call for Papers: Coming Soon
 <!--
-[Call for Papers](/call-for-papers/)
+[Call for Papers](call-for-papers/index.md)
 
 Submission site: [https://softconf.com/naacl2025/CLPsych2025/](https://softconf.com/naacl2025/CLPsych2025/)
 -->
