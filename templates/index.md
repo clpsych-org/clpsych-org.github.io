@@ -4,7 +4,7 @@ Since 2014, CLPsych has brought together researchers in computational linguistic
 
 Together, we hope to be able to advance the common goal of using human language as a tool to better understand emotional and mental state, and to reduce emotional suffering and the potential for self-harm.
 
-[Call for Papers](/call-for-papers/)
+[Call for Papers]((https://clpsych.org/call-for-papers))
 <!--
 [Call for Papers](call-for-papers/index.md)
 
