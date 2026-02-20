@@ -175,7 +175,7 @@ Submissions will be evaluated on their ability to:
 
 **CLPsych 2026 Timeline**
 
-* Registration deadline ~~(**Feb 15**)~~(**Mar 1**)  
+* Registration deadline <s>(**Feb 15**)</s>(**Mar 1**)  
 * Receiving guidelines on accessing sample data (**Mar 1**)  
 * Receiving instructions on the task and training data (**Mar 11**)   
 * System submissions on test set **(Apr 18\)**  
