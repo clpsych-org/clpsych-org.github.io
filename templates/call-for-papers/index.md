@@ -8,6 +8,7 @@ title: Call for Papers
 *A hybrid workshop to be held in conjunction with ACL 2026*  
 Website: [clpsych.org](http://clpsych.org)  
 Submission site: [softconf](https://softconf.com/acl2026/CLPsych)
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Since 2014, CLPsych has brought together researchers in computational linguistics and NLP, who use computational methods to better understand human language, infer meaning and intention, and predict individuals’ characteristics and potential behavior, with mental health practitioners and researchers, who are focused on psychopathology and neurological health and engage directly with the needs of providers and their patients. This workshop’s distinctly interdisciplinary nature has improved the exchange of knowledge, fostered collaboration, and increased the visibility of mental health as a problem domain in NLP.
