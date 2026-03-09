@@ -54,7 +54,7 @@ In order for the paper to appear in the proceedings, at least one author must re
 * April 28th, 2026: Notification of acceptance   
 * May 12th, 2026: Camera-ready papers due   
 * June 1st, 2026: Pre-recorded video due  
-* July 2nd or 3rd, 2026: ACL workshops (Exact workshop date to be announced soon)
+* July 4th, 2026: CLPsych workshop
 
 **Shared task**   
 Please check [https://clpsych.org/shared-task/](https://clpsych.org/shared-task/) for more details on the shared task. The shared task will have its own important dates, but please assume that the camera-ready paper deadline is the same as above.
