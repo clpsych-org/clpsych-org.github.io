@@ -26,7 +26,7 @@ def render_md(site, template, **kwargs):
 
 site = Site.make_site(
     env_globals={
-        'date': 'July 2 or 3, 2026',
+        'date': 'July 4th, 2026',
         'location': 'CLPsych 2026 will be held at ACL in San Diego',
     },
     searchpath="templates",

@@ -7,7 +7,8 @@ title: Call for Papers
 **The 11th Workshop on Computational Linguistics and Clinical Psychology: Moving Beyond Labels to Understand Mental Health Dynamics**  
 *A hybrid workshop to be held in conjunction with ACL 2026*  
 Website: [clpsych.org](http://clpsych.org)  
-Submission site: softconf (exact address to be sent later)  
+Submission site: [softconf](https://softconf.com/acl2026/CLPsych)
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Since 2014, CLPsych has brought together researchers in computational linguistics and NLP, who use computational methods to better understand human language, infer meaning and intention, and predict individuals’ characteristics and potential behavior, with mental health practitioners and researchers, who are focused on psychopathology and neurological health and engage directly with the needs of providers and their patients. This workshop’s distinctly interdisciplinary nature has improved the exchange of knowledge, fostered collaboration, and increased the visibility of mental health as a problem domain in NLP.
@@ -53,7 +54,7 @@ In order for the paper to appear in the proceedings, at least one author must re
 * <s>April 28th, 2026</s> <b>May 12th, 2026</b>: Notification of acceptance   
 * <s>May 12th, 2026</s> <b>May 19th, 2026</b>: Camera-ready papers due   
 * June 1st, 2026: Pre-recorded video due  
-* July 2nd or 3rd, 2026: ACL workshops (Exact workshop date to be announced soon)
+* July 4th, 2026: CLPsych workshop
 
 **Shared task**   
 Please check [https://clpsych.org/shared-task/](https://clpsych.org/shared-task/) for more details on the shared task. The shared task will have its own important dates, but please assume that the camera-ready paper deadline is the same as above.
