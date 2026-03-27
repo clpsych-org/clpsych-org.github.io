@@ -50,7 +50,7 @@ In order for the paper to appear in the proceedings, at least one author must re
 
 **Important dates**
 
-* <s>March 17th, 2026</s> <b>March 31st, 2026 (final deadline)</b>: Workshop paper submissions are due, see [clpsych.org](https://clpsych.org/) for how to submit  
+* <s>March 17th, 2026</s> <b>March 31st, 2026, 11:59PM AoE (final deadline)</b>: Workshop paper submissions are due, see [clpsych.org](https://clpsych.org/) for how to submit  
 * <s>April 28th, 2026</s> <b>May 12th, 2026</b>: Notification of acceptance   
 * <s>May 12th, 2026</s> <b>May 19th, 2026</b>: Camera-ready papers due   
 * June 1st, 2026: Pre-recorded video due  
