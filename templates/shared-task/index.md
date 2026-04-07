@@ -3,6 +3,7 @@ title: Shared Task 2026
 ---
 
 ## CLPsych 2026 Shared Task: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics
+**Paper submission** via [softconf](https://softconf.com/acl2026/CLPsych)
 
 **Overview**  
 The CLPsych 2026 Shared Task builds on the longitudinal modeling paradigm introduced in CLPsych ([2022](https://aclanthology.org/volumes/2022.clpsych-1/), [2025](https://aclanthology.org/2025.clpsych-1.16.pdf)), which focused on detecting changes in individuals’ mental states and well-being, as reflected in social media timelines. The 2026 task further advances this line of work by integrating **dynamic mental health modeling**, emphasizing the identification of key self-state elements leading up to mental state changes over time.
@@ -179,8 +180,9 @@ Submissions will be evaluated on their ability to:
 * Receiving guidelines on accessing sample data (**Mar 1**)  
 * Receiving instructions on the task and training data (**Mar 11**)   
 * System submissions on test set **(Apr 18\)**  
-* Shared Task Paper submissions **(May 1\)**  
-* Camera-ready papers due **(May 15\)**
+* Shared Task Paper submissions ~~**(May 1\)**~~  **(May 4)** Paper submission via [softconf](https://softconf.com/acl2026/CLPsych)
+* Notificiation of acceptance **(May 12)**
+* Camera-ready papers due ~~**(May 15\)**~~ **(May 18)**
 
 **How to Participate**  
 Teams must complete:
@@ -200,7 +202,7 @@ Researchers seeking collaborators are encouraged to contact the organizers.
 * Ayal Klein (Ariel University)  
 * Aya Shamir (Bar-Ilan University)  
 * Dan Sayda (Bar-Ilan University)  
-* Ayah Zirikly (George Washington University)  
+* Aya Zirikly (George Washington University)  
 * Maria Liakata (Queen Mary University of London & The Alan Turing Institute)
 
 **Contact**  
