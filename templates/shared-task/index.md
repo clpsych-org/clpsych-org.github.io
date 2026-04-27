@@ -177,12 +177,21 @@ Submissions will be evaluated on their ability to:
 **CLPsych 2026 Timeline**
 
 * Registration deadline <s>(**Feb 15**)</s>(**Mar 1**)  
-* Receiving guidelines on accessing sample data (**Mar 1**)  
-* Receiving instructions on the task and training data (**Mar 11**)   
-* System submissions on test set **(Apr 18\)**  
-* Shared Task Paper submissions ~~**(May 1\)**~~  **(May 4)** Paper submission via [softconf](https://softconf.com/acl2026/CLPsych)
-* Notificiation of acceptance **(May 12)**
-* Camera-ready papers due ~~**(May 15\)**~~ **(May 18)**
+* Receiving guidelines on accessing sample data (**Mar 1**)
+* Guidelines Released, Training Data Released: Tasks 1 and 2
+* March 24: Test Set Released, Baselines Available: Tasks 1 and 2
+* April 2: Submission Deadline: Test set submissions for Tasks 1 and 2 on Codabench
+* April 4: Training Data Released: Task 3
+* April 13: Results Announcement for Tasks 1.1, 1.2 and 2
+* April 16: Test Set Released, Baselines Available: Task 3.1
+* April 23: Submission Deadline: Task 3.1 on Codabench and Task 3.2 through email.
+* April 24: Teams to send a ~75-word summary of their best system along with the Codabench submission ID selected per Task
+* April 25: Results Announcement for Task 3.1
+* April 25: Codabench pages open for Tasks 1, 2, and 3 for additional submissions (only for paper writing). Codabench to close on April 30.
+* April 30: Results Announcement for Task 3.2
+* May 4: Participant System Papers Due (optional) Paper submission via [softconf](https://softconf.com/acl2026/CLPsych)
+* May 12: Notificiation of acceptance 
+* May 18: Camera-ready papers due
 
 **How to Participate**  
 Teams must complete:
