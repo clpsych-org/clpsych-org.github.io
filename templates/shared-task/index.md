@@ -190,8 +190,8 @@ Submissions will be evaluated on their ability to:
 * April 25: Codabench pages open for Tasks 1, 2, and 3 for additional submissions (only for paper writing). Codabench to close on April 30.
 * April 30: Results Announcement for Task 3.2
 * May 4: Participant System Papers Due (optional) Paper submission via [softconf](https://softconf.com/acl2026/CLPsych)
-* May 12: Notificiation of acceptance 
-* May 18: Camera-ready papers due
+* <s>May 12</s> May 14: Notificiation of acceptance 
+* <s>May 18</s> May 20: Camera-ready papers due
 
 **How to Participate**  
 Teams must complete:
