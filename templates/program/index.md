@@ -5,7 +5,7 @@ title: Program
 ## Program
 
 | Start time (PST San Diego, CA) | Duration | What |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | 8:45 AM | 10 min | Workshop intro; hybrid workshop practicalities |
 | 8:55 AM | 35 min | Keynote 1: Trevor Cohen (25 minutes + 10 discussion) |
 | 9:30 AM | 60 min | Paper session 1 (3 papers, Discussant: Molly Ireland) |
