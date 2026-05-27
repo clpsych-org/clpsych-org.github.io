@@ -13,18 +13,16 @@ Together, we hope to be able to advance the common goal of using human language 
 Submission site: [https://softconf.com/naacl2025/CLPsych2025/](https://softconf.com/naacl2025/CLPsych2025/)
 -->
 
-**Organizers**
+**Organizers**\
+Aya Zirikly, George Washington University (chair)\
+Kfir Bar, Reichman University\
+Sean MacAvaney, University of Glasgow\
+Molly Ireland, Receptiviti\
+Yaakov Ophir, Ariel University and University of Cambridge\
+Dana Atzil-Slonim, Bar-Ilan University\
+Vasudha Varadarajan, Carnegie Mellon University\
+Steven Bedrick, Oregon Health & Science University\
+Bart Desmet, Thomson-Reuters\
 
-Aya Zirikly, George Washington University (chair)
-Kfir Bar, Reichman University
-Sean MacAvaney, University of Glasgow
-Molly Ireland, Receptiviti
-Yaakov Ophir, Ariel University and University of Cambridge
-Dana Atzil-Slonim, Bar-Ilan University
-Vasudha Varadarajan, Carnegie Mellon University
-Steven Bedrick, Oregon Health & Science University
-Bart Desmet, Thomson-Reuters
-
-**Program Committee** (Special thanks to our PC members, without whom CLPsych could not be a success.)
-
+**Program Committee** *(Special thanks to our PC members, without whom CLPsych could not be a success.)*\
 Iyad Ait Hou, Iqra Ali, Dana Atzil-Slonim, Ryan Boyd, Ana-Maria Bucur, Honor Carolina, Jenny Chim, Trevor Cohen, Kathleen C. Fraser, Yusuke Fukazawa, Kai Golan Hashiloni, Sharath Chandra Guntuku, Tal Guttman, Lifeng Han, Anthony Hills , Heyuan Huang, Zac Imel, Loring Ingraham, Molly Ireland, Sarvnaz Karimi, Michelle Kuchuk
