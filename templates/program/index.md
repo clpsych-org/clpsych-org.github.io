@@ -5,6 +5,7 @@ title: Program
 ## Program
 
 <div style="overflow-x: auto; width: 100%;">
+ 
 | Start time (PST San Diego, CA) | Duration | What |
 | :--- | :--- | :--- |
 | 8:45 AM | 10 min | Workshop intro; hybrid workshop practicalities |
@@ -23,6 +24,7 @@ title: Program
 | 5:45 PM | -- | **END** |
 
 </div>
+
 ### Previous Programs:
 
  - [CLPsych 2025](/program/2025)
