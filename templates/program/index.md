@@ -93,17 +93,28 @@ title: Program
 </div>
 
 <!-- Modal Dialog Window for Trevor Cohen -->
-<dialog id="trevor-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 24px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <button onclick="document.getElementById('trevor-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 6px 12px; font-weight: 500; color: #24292e;">Close</button>
+<dialog id="trevor-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <button onclick="document.getElementById('trevor-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
   
-  <h3 style="margin-top: 0; color: #0366d6; font-size: 20px;">Trevor Cohen</h3>
-  <p style="margin-bottom: 20px;"><strong style="color: #24292e;">Title:</strong> Linguistic Indicators of Symptom Severity in Mental Health: From Lexicons to Large Language Models</p>
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Trevor Cohen</h3>
   
-  <strong style="color: #0366d6; display: block; margin-bottom: 6px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Abstract</strong>
-  <p style="margin-top: 0; margin-bottom: 20px; color: #444d56; font-size: 14.5px; line-height: 1.6;">Language is the medium through which both assessment and therapy are conducted in the care of mental health conditions. The rapid advancement of natural language processing (NLP) technologies presents new avenues for automated appraisal of patient-generated language to support care delivery. This talk will provide an overview of an extended program of research focused on automated appraisal of language across a range of mental health conditions - from assessment of speech in psychosis through detection of suicide risk in internet search logs - with a focus on the relationship between the constraints and capabilities of evolving NLP technologies, and their utility in characterizing the linguistic manifestations of mental health conditions.</p>
+  <!-- Title Section -->
+  <div style="margin-bottom: 6px;">
+    <strong style="color: #24292e; display: block; margin-bottom: 0px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px;">Title</strong>
+    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">Linguistic Indicators of Symptom Severity in Mental Health: From Lexicons to Large Language Models</p>
+  </div>
   
-  <strong style="color: #0366d6; display: block; margin-bottom: 6px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
-  <p style="margin: 0; color: #444d56; font-size: 14.5px; line-height: 1.6;">Dr. Cohen trained and practiced as a physician in South Africa before earning a PhD in Biomedical Informatics from Columbia University in 2007. His doctoral research focused on improving understanding of psychiatric clinical text using computational models language. He later held faculty positions at Arizona State University and the University of Texas School of Biomedical Informatics, where he worked on representing and applying knowledge extracted from the biomedical literature, amongst other research topics. Since joining the University of Washington in 2018, his work has focused on detecting linguistic indicators of neurocognitive and mental health status, summarizing biomedical literature in plain language, and addressing sources of inaccuracy in clinical language models. Dr. Cohen’s work has been supported by the National Library of Medicine and the National Institute of Mental Health, amongst other sources. He is a Fellow of the American College of Medical Informatics, lead editor of a textbook on AI in medicine, and co-author of a recent book on large language models.</p>
+  <!-- Abstract Section -->
+  <div style="margin-bottom: 6px;">
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Abstract</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Language is the medium through which both assessment and therapy are conducted in the care of mental health conditions. The rapid advancement of natural language processing (NLP) technologies presents new avenues for automated appraisal of patient-generated language to support care delivery. This talk will provide an overview of an extended program of research focused on automated appraisal of language across a range of mental health conditions - from assessment of speech in psychosis through detection of suicide risk in internet search logs - with a focus on the relationship between the constraints and capabilities of evolving NLP technologies, and their utility in characterizing the linguistic manifestations of mental health conditions.</p>
+  </div>
+  
+  <!-- Bio Section -->
+  <div>
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Dr. Cohen trained and practiced as a physician in South Africa before earning a PhD in Biomedical Informatics from Columbia University in 2007. His doctoral research focused on improving understanding of psychiatric clinical text using computational models language. He later held faculty positions at Arizona State University and the University of Texas School of Biomedical Informatics, where he worked on representing and applying knowledge extracted from the biomedical literature, amongst other research topics. Since joining the University of Washington in 2018, his work has focused on detecting linguistic indicators of neurocognitive and mental health status, summarizing biomedical literature in plain language, and addressing sources of inaccuracy in clinical language models. Dr. Cohen’s work has been supported by the National Library of Medicine and the National Institute of Mental Health, amongst other sources. He is a Fellow of the American College of Medical Informatics, lead editor of a textbook on AI in medicine, and co-author of a recent book on large language models.</p>
+  </div>
 </dialog>
 
 ### Previous Programs:
