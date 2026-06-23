@@ -5,7 +5,7 @@ title: Program
 ## Program
 
 <div style="overflow-x: auto; margin: 25px 0; width: 100%;">
-  <table style="width: 100%; min-width: 600px; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.5; color: #24292e; border: 1px solid #e1e4e6;">
+  <table style="width: 100%; min-width: 600px; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #24292e; border: 1px solid #e1e4e6;">
     <thead>
       <tr style="background-color: #f6f8fa; border-bottom: 2px solid #d1d5da; text-align: left;">
         <th style="padding: 12px 16px; font-weight: 600; border: 1px solid #e1e4e6; white-space: nowrap;">Start time (PST San Diego, CA)</th>
