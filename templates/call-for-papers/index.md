@@ -60,17 +60,7 @@ In order for the paper to appear in the proceedings, at least one author must re
 Please check [https://clpsych.org/shared-task/](https://clpsych.org/shared-task/) for more details on the shared task. The shared task will have its own important dates, but please assume that the camera-ready paper deadline is the same as above.
 
 **Organizers**   
-*clpsych\_organizers@googlegroups.com*
-
-Aya Zirikly, George Washington University (chair)  
-Kfir Bar, Reichman University  
-Sean MacAvaney, University of Glasgow   
-Molly Ireland, Receptiviti   
-Yaakov Ophir, Ariel University and University of Cambridge   
-Dana Atzil-Slonim, Bar-Ilan University  
-Vasudha Varadarajan, Carnegie Mellon University  
-Steven Bedrick, Oregon Health & Science University  
-Bart Desmet, Thomson-Reuters
+See the [Committee](/committee/) page.
 
 Workshop site: [https://clpsych.org/](http://clpsych.org/)  
 ACL conference site: [https://2026.aclweb.org/](https://2026.aclweb.org/)  
