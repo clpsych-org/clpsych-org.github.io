@@ -42,7 +42,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">11:00 AM</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">60 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
-          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh<span>, 
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span>, 
           Justin Tauscher, Anat Brunstein Klomek, moderated by Philip Resnik
         </td>
       </tr>
@@ -162,7 +162,7 @@ In his spare time, he enjoys cooking, leather working, and picking up heavy thin
   
   <!-- Professional Title Section -->
   <div style="margin-bottom: 6px;">
-    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">Colin Walsh, MD, MA, FACMI, FAMIA, FIAHSI 
+    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">MD, MA, FACMI, FAMIA, FIAHSI 
       Associate Professor of Biomedical Informatics, 
       Medicine and Psychiatry Vanderbilt University Medical Center
       https://www.walshscience.com
