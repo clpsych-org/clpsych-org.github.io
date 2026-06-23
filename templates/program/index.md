@@ -57,7 +57,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap; font-weight: 500;">1:55 PM</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">35 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
-          <strong style="color: #0366d6;">Keynote 2:</strong> 
+             <strong style="color: #0366d6;">Keynote 1:</strong> 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6; font-weight: bold;" onclick="document.getElementById('dirk-modal').showModal()">Dirk Hovy</span> 
           (25 minutes + 10 discussion)
         </td>
