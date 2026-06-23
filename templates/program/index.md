@@ -43,7 +43,8 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">60 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span>, 
-          Justin Tauscher, Anat Brunstein Klomek, moderated by Philip Resnik
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Justin Tauscher</span>, 
+          Anat Brunstein Klomek, moderated by Philip Resnik
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e1e4e6; background-color: #f1f8ff; color: #586069;">
@@ -193,6 +194,37 @@ behavioral health and injury prevention, while working with federal agencies,
 health systems, and national advisory groups to guide implementation at
 scale. He is a Fellow of the American College of Medical Informatics, the
 International Academy of Health Sciences Informatics, and AMIA.
+    </p>
+  </div>
+</dialog>
+
+<!-- Modal Dialog Window for Colin Walsh -->
+<dialog id="justin-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <button onclick="document.getElementById('justin-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
+  
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Justin Tauscher</h3>
+  
+  <!-- Bio Section -->
+  <div>
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Dr. Justin Tauscher is a 
+      Research Assistant Professor at the Behavioral Research in Technology and Engineering (BRiTE) 
+      Center in the Department of Psychiatry and Behavioral Sciences at the University of Washington. 
+      He received his Ph.D. in Counseling and Counselor Education, M.S. in Biomedical Informatics, 
+      and a graduate certificate in Implementation Science from the University of Florida. His research 
+      uses natural language processing, multimodal smartphone data, and responsible AI methods to identify 
+      clinically meaningful patterns in patient-generated language and behavior among individuals with 
+      serious mental illness and co-occurring substance use disorders. Dr. Tauscher's broader work 
+      integrates digital mental health, biomedical informatics, and implementation science to translate 
+      these methods into scalable interventions for real-world behavioral health care. He holds leadership 
+      roles on federally funded studies focused on digital phenotyping of hallucination experiences, 
+      mobile health implementation, and technology-supported clinician training in community mental health settings. 
+      He also leads translational projects developing AI-enabled clinical support tools for telehealth, mobile 
+      intervention delivery, and behavioral health workflows. Prior to academia, Dr. Tauscher spent more than a 
+      decade in community behavioral health as a dually licensed mental health and addiction counselor, 
+      clinical supervisor, and program director. This clinical experience continues to shape his research agenda, 
+      which emphasizes practical, ethically grounded technologies that can expand access to care, support clinicians, 
+      and improve outcomes for people with complex behavioral health needs.
     </p>
   </div>
 </dialog>
