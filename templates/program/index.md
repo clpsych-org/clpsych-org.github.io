@@ -41,7 +41,10 @@ title: Program
       <tr style="border-bottom: 1px solid #e1e4e6;">
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">11:00 AM</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">60 min</td>
-        <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> Colin Walsh, Justin Tauscher, Anat Brunstein Klomek, moderated by Philip Resnik</td>
+        <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh<span>, 
+          Justin Tauscher, Anat Brunstein Klomek, moderated by Philip Resnik
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #e1e4e6; background-color: #f1f8ff; color: #586069;">
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap; font-style: italic;">12:00 PM</td>
@@ -148,6 +151,49 @@ I will close by suggesting that the next frontier is not only more capable model
     <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Dirk Hovy is a professor in the Computing Sciences Department, the scientific director of the Data and Marketing Insights research unit, and the current dean for Digital Transformation and AI of Bocconi University. Previously, he was faculty at the University of Copenhagen, got a PhD from USC’s Information Sciences Institute, and a linguistics master’s from Marburg university in Germany. 
 Dirk is interested in what computers can tell us about language and what language can tell us about society. That involves ethical questions of bias and algorithmic fairness in AI. Dirk has authored over 150 articles on these topics, two textbooks on NLP in Python, and forthcoming title at MIT Press. Dirk has co-founded and organized several workshops (on computational social science, and ethics in NLP), was a local organizer for the EMNLP 2017 conference, and general chair of EMNLP 2025. He was awarded an ERC Starting Grant project 2020 for research on demographic bias in NLP. 
 In his spare time, he enjoys cooking, leather working, and picking up heavy things to put them back down.</p>
+  </div>
+</dialog>
+
+<!-- Modal Dialog Window for Colin Walsh -->
+<dialog id="colin-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <button onclick="document.getElementById('colin-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
+  
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Colin Walsh</h3>
+  
+  <!-- Professional Title Section -->
+  <div style="margin-bottom: 6px;">
+    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">Colin Walsh, MD, MA, FACMI, FAMIA, FIAHSI 
+      Associate Professor of Biomedical Informatics, 
+      Medicine and Psychiatry Vanderbilt University Medical Center
+      https://www.walshscience.com
+    </p>
+  </div>
+  
+  <!-- Bio Section -->
+  <div>
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Dr. Walsh received a degree in
+Mechanical Engineering from Princeton University and his medical degree
+from the University of Chicago. He completed residency and chief residency
+in internal medicine at Columbia University Medical Center and completed
+postdoctoral training in biomedical informatics at Columbia University. Dr.
+Walsh joined the faculty at Vanderbilt University in 2015.
+Dr. Walsh’s research focuses on machine learning to enable clinical decision
+support, scalable phenotyping using structured and unstructured clinical data,
+and public health informatics. His work is nationally recognized for advancing
+data-driven approaches to injury, overdose, and violence prevention,
+including the development and real-world implementation of predictive models
+to prevent suicide and opioid overdose in health systems and population
+settings. He has led and contributed to multiple federally funded studies and
+pragmatic clinical trials that translate artificial intelligence into deployable
+interventions for high-risk populations.
+Across more than one hundred peer-reviewed publications, Dr. Walsh has
+helped define the methodological and ethical foundations of applying AI to
+behavioral health and injury prevention, while working with federal agencies,
+health systems, and national advisory groups to guide implementation at
+scale. He is a Fellow of the American College of Medical Informatics, the
+International Academy of Health Sciences Informatics, and AMIA.
+    </p>
   </div>
 </dialog>
 
