@@ -44,7 +44,9 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span>, 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Justin Tauscher</span>, 
-          Anat Brunstein Klomek, moderated by Philip Resnik
+          Anat Brunstein Klomek, 
+          moderated by 
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('philip-modal').showModal()">Philip Resnik</span>.
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e1e4e6; background-color: #f1f8ff; color: #586069;">
@@ -198,7 +200,7 @@ International Academy of Health Sciences Informatics, and AMIA.
   </div>
 </dialog>
 
-<!-- Modal Dialog Window for Colin Walsh -->
+<!-- Modal Dialog Window for Justin Tauscher -->
 <dialog id="justin-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
   <button onclick="document.getElementById('justin-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
   
@@ -225,6 +227,29 @@ International Academy of Health Sciences Informatics, and AMIA.
       clinical supervisor, and program director. This clinical experience continues to shape his research agenda, 
       which emphasizes practical, ethically grounded technologies that can expand access to care, support clinicians, 
       and improve outcomes for people with complex behavioral health needs.
+    </p>
+  </div>
+</dialog>
+
+<!-- Modal Dialog Window for Philip Resnik -->
+<dialog id="philip-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <button onclick="document.getElementById('philip-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
+  
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Justin Tauscher</h3>
+  
+  <!-- Bio Section -->
+  <div>
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Philip Resnik is a Professor at the 
+      University of Maryland with joint appointments in the Department of Linguistics and the Institute for 
+      Advanced Computer Studies. In 2020 he was named an ACL Fellow for significant contributions to symbolic-statistical 
+      methods for natural language processing, multilinguality, and the interdisciplinary study of language. Philip’s 
+      most recent research has focused in three main areas. The first is computational social science, 
+      with an emphasis on qualitative analysis and connecting the signal available in people’s language use with 
+      underlying mental state. The second is the computational cognitive neuroscience of language, using computational 
+      modeling in connection with brain imaging to look at the role of context and predictive processing during online 
+      language comprehension. The third involves fundamental questions about how current AI models relate to human 
+      cognition and to human society.
     </p>
   </div>
 </dialog>
