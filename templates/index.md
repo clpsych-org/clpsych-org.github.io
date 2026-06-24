@@ -23,6 +23,3 @@ Dana Atzil-Slonim, Bar-Ilan University
 Vasudha Varadarajan, Carnegie Mellon University  
 Steven Bedrick, Oregon Health & Science University  
 Bart Desmet, Thomson-Reuters  
-
-**Program Committee** *(Special thanks to our PC members, without whom CLPsych could not be a success.)*  
-Iyad Ait Hou, Iqra Ali, Dana Atzil-Slonim, Ryan Boyd, Ana-Maria Bucur, Honor Carolina, Jenny Chim, Trevor Cohen, Kathleen C. Fraser, Yusuke Fukazawa, Kai Golan Hashiloni, Sharath Chandra Guntuku, Tal Guttman, Lifeng Han, Anthony Hills , Heyuan Huang, Zac Imel, Loring Ingraham, Molly Ireland, Sarvnaz Karimi, Michelle Kuchuk
