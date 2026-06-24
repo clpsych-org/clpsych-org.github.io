@@ -46,7 +46,7 @@ title: Program
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Justin Tauscher</span>, 
           Anat Brunstein Klomek, 
           moderated by 
-          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('philip-modal').showModal()">Philip Resnik</span>.
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('philip-modal').showModal()">Philip Resnik</span>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #e1e4e6; background-color: #f1f8ff; color: #586069;">
@@ -249,7 +249,13 @@ International Academy of Health Sciences Informatics, and AMIA.
       underlying mental state. The second is the computational cognitive neuroscience of language, using computational 
       modeling in connection with brain imaging to look at the role of context and predictive processing during online 
       language comprehension. The third involves fundamental questions about how current AI models relate to human 
-      cognition and to human society.
+      cognition and to human society. Outside academia, Philip’s industry experience includes research at 
+      Bolt Beranek and Newman and Sun Microsystems Laboratories, as well as an internship at IBM T.J. Watson 
+      Research Center, and in entrepreneurial life he has been a technical co-founder of CodeRyte (clinical NLP, 
+      acquired by 3M in 2012), an advisor to FiscalNote (machine learning and analytics for government relations, 
+      went public in 2022), and he currently serves as an advisor to Trustible (technology provider for responsible AI governance). 
+      Philip was an undergrad in CS at Harvard and earned his PhD in Computer and Information Science at the University of Pennsylvania.
+      
     </p>
   </div>
 </dialog>
