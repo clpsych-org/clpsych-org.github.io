@@ -281,7 +281,7 @@ International Academy of Health Sciences Informatics, and AMIA.
 
 <!-- Modal Dialog Window for Anat -->
 <dialog id="anat-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <button onclick="document.getElementById('philip-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
+  <button onclick="document.getElementById('anat-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
   
   <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Anat Brunstein Klomek</h3>
   
