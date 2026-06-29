@@ -51,7 +51,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span>, 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Justin Tauscher</span>, 
-          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Anat Brunstein Klomek</span>,
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('anat-modal').showModal()">Anat Brunstein Klomek</span>,
           moderated by 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('philip-modal').showModal()">Philip Resnik</span>
         </td>
