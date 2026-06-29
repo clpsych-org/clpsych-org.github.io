@@ -51,7 +51,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;"><strong>Panel:</strong> 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span>, 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Justin Tauscher</span>, 
-          Anat Brunstein Klomek, 
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('justin-modal').showModal()">Anat Brunstein Klomek</span>,
           moderated by 
           <span style="cursor: pointer; text-decoration: underline; color: #0366d6;" onclick="document.getElementById('philip-modal').showModal()">Philip Resnik</span>
         </td>
@@ -274,6 +274,21 @@ International Academy of Health Sciences Informatics, and AMIA.
       acquired by 3M in 2012), an advisor to FiscalNote (machine learning and analytics for government relations, 
       went public in 2022), and he currently serves as an advisor to Trustible (technology provider for responsible AI governance). 
       Philip was an undergrad in CS at Harvard and earned his PhD in Computer and Information Science at the University of Pennsylvania.
+      
+    </p>
+  </div>
+</dialog>
+
+<!-- Modal Dialog Window for Anat -->
+<dialog id="anat-modal" style="border: 1px solid #e1e4e6; border-radius: 8px; padding: 20px; max-width: 650px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <button onclick="document.getElementById('philip-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
+  
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Anat Brunstein Klomek</h3>
+  
+  <!-- Bio Section -->
+  <div>
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;"> Anat Brunstein Klomek is a clinical psychologist and Dean of the Baruch Ivcher School of Psychology at Reichman University. Her research focuses on resilience and suicide prevention, with extensive work in the fields of trauma and technology in mental health. She developed a transdiagnostic Interpersonal Psychotherapy (IPT) approach for the treatment of trauma, depression, and anxiety. Her work integrates research, clinical practice, and innovation to advance accessible, evidence-based mental health care.
       
     </p>
   </div>
