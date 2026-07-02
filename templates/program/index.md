@@ -33,6 +33,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">60 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
           <strong>Paper session 1</strong> (3 papers, Discussant: Molly Ireland)
+          <div style="font-size: 13px; color: #586069; font-style: italic; margin-top: 3px;">12 min per talk · 24 min discussion</div>
           <ul style="margin: 8px 0 0 0; padding-left: 20px; font-size: 15px;">
             <li style="margin-bottom: 6px;"><em>Multistream Modelling for Mental Health: Modelling Linguistic and Temporal Contexts with Mutual and Self-Excitation in Social Media</em><br><span style="color: #586069;">Anthony R. Hills, Talia Tseriotou, Mahmud Elahi Akhter, Junyu Mao, Iqra Ali, Xenia Miscouridou and Maria Liakata</span></li>
             <li style="margin-bottom: 6px;"><em>Automated Detection and Classification of Delusion-related Content in Naturalistic Audio Diaries Using Multi-Agent Language Models</em><br><span style="color: #586069;">Feng Chen, Justin Tauscher, Changye Li, Meliha Yetisgen, Alex Cohen, Adam Kuczynski, Angelina Pei-Tzu Tsai, Benjamin Buck, Dror Ben-Zeev and Trevor Cohen</span></li>
@@ -66,6 +67,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">40 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
           <strong>Paper session 2</strong> (2 papers, Discussant: Honor Carolina)
+          <div style="font-size: 13px; color: #586069; font-style: italic; margin-top: 3px;">12 min per talk · 24 min discussion</div>
           <ul style="margin: 8px 0 0 0; padding-left: 20px; font-size: 15px;">
             <li style="margin-bottom: 6px;"><em>Clinical Prompt Engineering: Encoding Clinical Knowledge into AI Training Simulations - A Crisis Deployment Case Study</em><br><span style="color: #586069;">Yuval Holzman, Eshkol Rafaeli, Zohar Elyoseph, Yuval Haber, Karen Yirmiya, Omer Linkovski, Tal Elyoseph and Elad Refoua</span></li>
             <li style="margin-bottom: 6px;"><em>"How'd You Type That So Fast?" A Descriptive Analysis of Counselor Message Text Reuse in Text-Based Crisis Counseling</em><br><span style="color: #586069;">Stevi Nicole Gligorovic, Jens Kristian R. Schou, Zac Imel and Brent Kious</span></li>
@@ -110,6 +112,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">40 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
           <strong>Paper session 3</strong> (2 papers, Discussant: Honor Carolina)
+          <div style="font-size: 13px; color: #586069; font-style: italic; margin-top: 3px;">12 min per talk · 24 min discussion</div>
           <ul style="margin: 8px 0 0 0; padding-left: 20px; font-size: 15px;">
             <li style="margin-bottom: 6px;"><em>The Reliability Illusion in Synthetic Patients: Psychometric Misalignment of Open-weight LLMs on PHQ-9 and GAD-7</em><br><span style="color: #586069;">Qian Shen and Yu Han</span></li>
             <li style="margin-bottom: 6px;"><em>On the Role of Context in LLM Alignment to Mental Health Counseling Competencies</em><br><span style="color: #586069;">Sadiya Sayara Chowdhury Puspo, Marcos Zampieri and Özlem Uzuner</span></li>
