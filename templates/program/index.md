@@ -109,7 +109,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">4:55 PM</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">40 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
-          <strong>Paper session 3</strong> (2 papers, Discussant: TBD)
+          <strong>Paper session 3</strong> (2 papers, Discussant: Honor Carolina)
           <ul style="margin: 8px 0 0 0; padding-left: 20px; font-size: 15px;">
             <li style="margin-bottom: 6px;"><em>The Reliability Illusion in Synthetic Patients: Psychometric Misalignment of Open-weight LLMs on PHQ-9 and GAD-7</em><br><span style="color: #586069;">Qian Shen and Yu Han</span></li>
             <li style="margin-bottom: 6px;"><em>On the Role of Context in LLM Alignment to Mental Health Counseling Competencies</em><br><span style="color: #586069;">Sadiya Sayara Chowdhury Puspo, Marcos Zampieri and Özlem Uzuner</span></li>
