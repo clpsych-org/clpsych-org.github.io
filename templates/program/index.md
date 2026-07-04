@@ -101,8 +101,9 @@ title: Program
             <li style="margin-bottom: 6px;"><em>Overview of the CLPsych 2026 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines</em><br><span style="color: #586069;">Talia Tseriotou, Jenny Chim, Ayal Klein, Aya Shamir, Guy Dvir, Iqra Ali, Cian Kennedy, Guneet Singh Kohli, Anthony Hills, Ayah Zirikly, Dana Atzil-Slonim and Maria Liakata</span></li>
             <li style="margin-bottom: 6px;"><em>CUNY at CLPsych 2026: A Pipeline Approach to Classification and Summarization of Mental Health Changes</em><br><span style="color: #586069;">Ava Yahyapour, Amirmohammad Ziaei Bideh, Shameed Job and Alla Rozovskaya</span></li>
             <li style="margin-bottom: 6px;"><em>Team MKC at CLPsych 2026: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics</em><br><span style="color: #586069;">Kyomin Hwang, Hyeonjin Kim, Hyunho Lee and Nojun Kwak</span></li>
-            <li style="margin-bottom: 6px;"><em>Agentic Pipelines Meet Retrieval-Augmented ICL: A Zero-Training Approach to Mental Health Modeling</em><br><span style="color: #586069;">Anson Antony, Gautam Vijay Kumar and Annika M. Schoene</span></li>
+            <li style="margin-bottom: 6px;"><em>DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods</em><br><span style="color: #586069;">Maryia Zhyrko, Daisy Lal, Erik van Mulligen, Lifeng Han</span></li>
             <li style="margin-bottom: 6px;"><em>P2P – from Posts to Patterns: An LLM Ensemble Approach to Mental Health Dynamics Detection</em><br><span style="color: #586069;">Federico Ravenda, Volodymyr Karpenko, Antonietta Mira and Andrea Raballo</span></li>
+            <li style="margin-bottom: 6px;"><em>Self-State Identification with Retrieved In-Context Examples and Open-Weight LLMs</em><br><span style="color: #586069;">Alina Ponomareva, Nina Stekacheva Sancho and Karina Litvinova</span></li>
           </ul>
         </td>
       </tr>
