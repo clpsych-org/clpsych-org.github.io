@@ -24,7 +24,7 @@ title: Program
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6; white-space: nowrap;">35 min</td>
         <td style="padding: 12px 16px; border: 1px solid #e1e4e6;">
           <strong style="color: #0366d6;">Keynote 1:</strong> 
-          <span style="cursor: pointer; text-decoration: underline; color: #0366d6; font-weight: bold;" onclick="document.getElementById('trevor-modal').showModal()">Trevor Cohen</span> 
+          <span style="cursor: pointer; text-decoration: underline; color: #0366d6; font-weight: bold;" onclick="document.getElementById('colin-modal').showModal()">Colin Walsh</span> 
           (25 minutes + 10 discussion)
         </td>
       </tr>
@@ -193,16 +193,19 @@ In his spare time, he enjoys cooking, leather working, and picking up heavy thin
   <button onclick="document.getElementById('colin-modal').close()" style="float: right; cursor: pointer; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 4px; padding: 4px 10px; font-weight: 500; color: #24292e; font-size: 13px;">Close</button>
   
   <h3 style="margin-top: 0; margin-bottom: 8px; color: #0366d6; font-size: 20px; border-bottom: 1px solid #e1e4e6; padding-bottom: 4px;">Colin Walsh</h3>
-  
-  <!-- Professional Title Section -->
+
+  <!-- Title Section -->
   <div style="margin-bottom: 6px;">
-    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">MD, MA, FACMI, FAMIA, FIAHSI 
-      Associate Professor of Biomedical Informatics, 
-      Medicine and Psychiatry Vanderbilt University Medical Center
-      https://www.walshscience.com
-    </p>
+    <strong style="color: #24292e; display: block; margin-bottom: 0px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px;">Title</strong>
+    <p style="margin: 0; color: #1f2328; font-size: 14.5px; font-weight: 500; line-height: 1.4;">From Prediction to Prevention: Using Language to Improve Mental Healthcare</p>
   </div>
-  
+
+  <!-- Abstract Section -->
+  <div style="margin-bottom: 6px;">
+    <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Abstract</strong>
+    <p style="margin: 0; color: #444d56; font-size: 14px; line-height: 1.4;">Recent advances in artificial intelligence and natural language processing have created unprecedented opportunities to identify mental health risks from clinical language at scale. Yet the central challenge is no longer prediction alone—it is translating prediction into prevention. Drawing on a decade of work in suicide risk prediction and clinical AI deployment, this keynote will explore how language-derived information can augment traditional healthcare data to improve risk stratification and support clinical decision-making. The talk will highlight lessons from developing and deploying suicide prevention tools in real-world healthcare settings, including the importance of rigorous phenotyping, prospective validation, workflow integration, and interdisciplinary collaboration.</p>
+  </div>
+
   <!-- Bio Section -->
   <div>
     <strong style="color: #0366d6; display: block; margin-bottom: 0px; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">Bio</strong>
