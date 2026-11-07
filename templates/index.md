@@ -1,4 +1,4 @@
-**Special Interest Group**
+<h2 style="font-size:1.7em">Special Interest Group</h2>
 
 The CLPsych Workshop is sponsored by the new ACL Special Interest Group on Clinically Related Language, SIGClinical! Anyone interested in joining SIGClinical can do so by following the instructions here: [https://sigclinical.org/](https://sigclinical.org/)
 
