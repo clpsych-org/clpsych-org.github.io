@@ -11,6 +11,10 @@ Together, we hope to be able to advance the common goal of using human language 
 Submission site: [https://softconf.com/naacl2025/CLPsych2025/](https://softconf.com/naacl2025/CLPsych2025/)
 -->
 
+**Special Interest Group**
+
+The CLPsych Workshop is sponsored by the new ACL Special Interest Group on Clinically Related Language, SIGClinical! Anyone interested in joining SIGClinical can do so by following the instructions here: [https://sigclinical.org/](https://sigclinical.org/)
+
 **Organizers**
 
 * Aya Zirikly, George Washington University & Johns Hopkins University (General Chair)
