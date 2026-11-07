@@ -16,7 +16,7 @@ TBD
 * Ayal Klein (Ariel University)  
 * Aya Shamir (Bar-Ilan University)  
 * Dan Sayda (Bar-Ilan University)  
-* Aya Zirikly (George Washington University)  
+* Aya Zirikly (George Washington University & Johns Hopkins University)  
 * Maria Liakata (Queen Mary University of London & The Alan Turing Institute)
 
 **Contact**  
