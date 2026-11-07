@@ -4,6 +4,8 @@ title: CLPsych 2026
 
 <div style="color: red">You are viewing information about a previous CLPsych workshop (2026).</div>
 
+**CLPsych 2026 pages:** [Call for Papers](/2026/call-for-papers) · [Program](/2026/program) · [Shared Task](/2026/shared-task)
+
 ## The 11th Workshop on Computational Linguistics and Clinical Psychology: Moving Beyond Labels to Understand Mental Health Dynamics
 
 **Applications for registration award is open and will close on May 25th 11:59pm AoE.** Please [apply here and read the instructions carefully](https://forms.gle/3upucuwqCQh7xR5J8)  
