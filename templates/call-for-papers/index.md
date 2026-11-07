@@ -50,7 +50,7 @@ In order for the paper to appear in the proceedings, at least one author must re
 
 **Important dates**
 
-* Submission deadline: February 24, 2027 [exact date to be announced]  
+* Submission deadline: February 24, 2027  
 * Notification of acceptance: April 1, 2027  
 * Camera-ready: April 16, 2027  
 * Pre-recorded video: May 14, 2027  
