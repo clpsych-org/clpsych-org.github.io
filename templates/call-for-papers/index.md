@@ -7,7 +7,8 @@ title: Call for Papers
 **The 12th Workshop on Computational Linguistics and Clinical Psychology: Understanding intra- and inter-personal dynamics in mental health**  
 *A hybrid workshop to be held in conjunction with NAACL 2027*  
 Website: [clpsych.org](https://clpsych.org)  
-Submission site: OpenReview (exact address will be posted to the website)
+Submission site: OpenReview (exact address will be posted to the website)  
+Sponsored by SIGClinical [https://sigclinical.org/](https://sigclinical.org/)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
