@@ -6,8 +6,7 @@ title: Call for Papers
 **Call for Papers for CLPsych 2027**  
 **The 12th Workshop on Computational Linguistics and Clinical Psychology: Understanding intra- and inter-personal dynamics in mental health**  
 *A hybrid workshop to be held in conjunction with NAACL 2027*  
-Website: [clpsych.org](https://clpsych.org)  
-Submission site: OpenReview (exact address will be posted to the website)  
+Submit using [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2027/Workshop/CLPsych) (please make sure your profile is updated and adheres to the rules of ACL)  
 Sponsored by SIGClinical [https://sigclinical.org/](https://sigclinical.org/)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
@@ -39,7 +38,7 @@ All paper submissions must describe substantial, original, completed, and unpubl
 
 A key goal of this workshop is to foster the conversation with clinicians and clinical researchers, both at the workshop and when these papers are read in the future. We therefore include practicing clinicians and clinical researchers on our program committee, and the ability to communicate ideas, approaches, and results clearly to people who are not computational linguists will be as important as the technical quality of the work.
 
-CLPsych submissions will be submitted using OpenReview; detailed information will appear at [clpsych.org](https://clpsych.org/). CLPsych will accept submissions of both ***long papers*** (up to eight pages of core content) and ***short papers*** (up to four pages of core content); plus unlimited references. Up to an extra page can be added in the final camera-ready version to allow space for addressing the reviewers’ comments. We require all authors to include relevant discussions of ethical considerations, impact, and limitations in the body of the paper. The limitations section does not count toward the page limit and should appear immediately before the references section. Following ACL’s policy, papers without a limitations section will be desk-rejected.
+CLPsych submissions will be submitted using [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2027/Workshop/CLPsych). CLPsych will accept submissions of both ***long papers*** (up to eight pages of core content) and ***short papers*** (up to four pages of core content); plus unlimited references. Up to an extra page can be added in the final camera-ready version to allow space for addressing the reviewers’ comments. We require all authors to include relevant discussions of ethical considerations, impact, and limitations in the body of the paper. The limitations section does not count toward the page limit and should appear immediately before the references section. Following ACL’s policy, papers without a limitations section will be desk-rejected.
 
 Authors may optionally include appendices, but these constitute additional information and might not be looked at by reviewers. If anything in the appendix is an important part of the contribution, or important for the reviewers to assess the work, they should be a part of the main paper, and not appear in the appendix.
 
